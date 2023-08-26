@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="rating">%1s | %2s votes</string>
+    <string name="genre">Action | Drama | Komedi</string>
+    <string name="videos">Videos</string>
+    <string name="reviews">Reviews</string>
+    <string name="name">Muhammad Irfan</string>
+    <string name="star_rate">%1s • %2s</string>
+    <string name="user_review">he main story of _The Flash_ regarding time travel and how it all plays out is solid even if everyone, including the audience</string>
+    <string name="overview">When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry\'s only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?</string>
+    <string name="see_all_reviews">See All Reviews</string>
+    <string name="error_msg">Error Load Data</string>
+    <string name="retry">Retry</string>
+    <string name="all_reviews">All Reviews</string>
+    <string name="no_reviews">No Reviews</string>
+    <string name="timeout">Timeout</string>
+</resources>
